@@ -1,0 +1,179 @@
+body {
+	background-color: #FEC5E5;
+}
+
+h1 {
+	color: #9E4244;
+	font-size: 45px;
+	font-family: algerian;
+}
+
+h2 {
+	color: #E11584;
+	font-size: 39px;
+	text-align: center;
+	font-family: fantasy;
+}
+
+h3 {
+	color: #036A48;
+	font-size: 30px;
+	text-align: center;
+}
+
+hr {
+	color: #9E4244;
+}
+
+p {
+	color: #FE7D6A;
+	font-size: 17px;
+	font-family: sylfaen;
+}
+
+img {
+	background-color: #F26B8A;
+}
+
+h3 {
+	color: #FF1694;
+	font-style: oblique;
+	font-size: 30px;
+}
+
+a {
+	font-size: 20px;
+}
+
+li {
+	color: #FE7D6A;
+	font-size: 20px;
+	font-family: sylfaen;
+}
+
+label {
+	color: #629F86;
+	font-size: 20px;
+}
+
+input {
+	color: #629F86;
+	font-size: 20px;
+}
+
+table.a {
+	color: #FEC5E5;
+	table-layout: auto;
+	width: 70%;
+	border: 1px solid #629F86;
+	font-family: sylfaen;
+	text-align: center;
+	background-color: #9E4244;
+
+}
+
+th.a {
+	color: #FC4C4E;
+	background-color: #F2B8C6;
+}
+
+table.b {
+	color: #FEC5E5;
+	table-layout: auto;
+	width: 70%;
+	border: 1px solid #629F86;
+	font-family: sylfaen;
+	text-align: center;
+	background-color: #9E4244;
+}
+
+#p1{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	margin-bottom:200px;
+}
+
+#p2{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	margin-bottom:200px;
+}
+
+#p3{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	margin-bottom:200px;
+}
+
+#p4{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	margin-bottom:200px;
+}
+
+#p5{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	margin-bottom:200px;
+}
+
+#p6{
+	width:200px;
+	height:200px;
+	float: left;
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:150px;
+	margin-bottom:200px;
+}
+
+video {
+	margin-left: 50vw; transform: translate(-50%); 
+	border: all;
+}
+
+#img1 {
+	margin-top: 20px
+}
+
+#img2 {
+	margin-top: 20px
+}
+
+#img3 {
+	margin-top: 20px
+}
+
+#img4 {
+	margin-top: 20px
+}
+
+#m1 {
+	align-items: center;
+}
+
+a {
+	color: #F25278;
+	background-color: white;
+
+}
